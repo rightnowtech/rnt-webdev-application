@@ -1,0 +1,88 @@
+** What is your US work status?
+
+
+
+
+    ** Are you a US citizen or national; permanent resident, applicant for legalization or amnesty; asylum or refugee?
+
+
+    ** If no, what is your Visa status?  Total number of years combined on that Visa?
+
+
+** Have you signed or are you obligated under any type of an agreement with your current or previous employer(s) such as a "non-disclosure/non-compete"?
+
+
+
+
+** Have you been in contact with anyone at RightNow, either now or in the past? If so, who?
+
+
+
+
+** When would you be available to start in this position?
+
+
+
+
+** Are you able to work from Boulder, CO or Bozeman, MT or are you willing to relocate?  If both, specify your preference.
+
+
+
+
+** Why are you considering new opportunities at this time?
+
+
+
+
+** Why are you considering RightNow as a potential employer?
+
+
+
+
+** Imagine you had complete control over your surroundings and could create the ultimate employment situation.
+    ** Describe your ideal job.
+
+
+
+
+    ** Describe the specific technologies you would be using.
+
+
+
+
+    ** What percentage of time would you spend on heads-down technical work vs. other?
+
+
+
+
+    ** Describe the work environment.
+
+
+
+
+** What is the most recent technical book you have read?
+
+
+
+
+** What is the most recent technology you have learned?
+
+
+
+
+** What is your preferred programming paradigm (ex, Aspect Oriented)?
+
+
+
+
+** What is your preferred programming methodology and why (ex, Waterfall)?
+
+
+
+
+** Comments?
+
+
+
+
+
