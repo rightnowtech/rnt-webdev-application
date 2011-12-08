@@ -18,7 +18,7 @@ Submitting
 ----------
 1. Clone or fork this repo
 2. Review the README file in each directory and follow the instructions
-3. Commit back to the git repo and do one of the following, notifying us at eb.love -at- rightnow.com
+3. Commit back to the git repo and do one of the following, notifying us at kjersten.brown -at- rightnow.com
     * Post it somewhere private where we can grab the clone
     * Zip up and send to us
     * Use `git send-email`
